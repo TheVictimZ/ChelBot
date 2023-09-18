@@ -1,3 +1,0 @@
-{
-	"name": "vanita Botz - MD"
-}
